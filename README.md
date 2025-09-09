@@ -1,5 +1,5 @@
 # About Me:
-Hi there, <br><br>Specialized in chemometric modeling and expert in analytical instrumentation, with a proven track record in applying R and Python for spectral and spatial analysis.<br><br>Here is a link to my CV:  <br>
+Hi there, <br><br> Welcome to my github page. I am a chemist Specialized in chemometric modeling and expert in analytical instrumentation, with a proven track record in applying R and Python for spectral and spatial analysis.<br><br>Here is a link to my CV:  <br>
 
 
 ## 🌐 Socials:
