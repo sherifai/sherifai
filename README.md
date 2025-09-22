@@ -1,5 +1,5 @@
 # About Me:
-Hi there, <br><br> I am a chemist specializing in chemometric modeling and analytical instrumentation. With extensive experience in applying R and Python for spectral and spatial analysis, I am passionate about leveraging data science to solve complex analytical challenges. I hold a Bachelor's degree in Chemistry and a Master's degree in Soil Science. <br><br>Here is a link to my CV:  <br>
+Hi there, <br><br> I specialze in chemometric modeling and analytical instrumentation. With extensive experience in applying R and Python for spectral and spatial analysis, I am passionate about leveraging data science to solve complex analytical challenges. I hold a Bachelor's degree in Chemistry and a Master's degree in Soil Science from Michigan State University. <br><br>Here is a link to my CV:  <br>
 
 
 ## 🌐 Socials:
